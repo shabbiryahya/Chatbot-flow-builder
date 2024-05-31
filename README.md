@@ -60,10 +60,10 @@ The Chatbot Flow Builder is a React-based application that allows users to creat
 - **CSS/Styled Components**: For styling the application.
 
 ## Images
-![Text Node](../chatbot-flow-builder//src/Assests/Images/Text%20Node.png)
-![Connect Nodes](../chatbot-flow-builder//src/Assests/Images/Connect%20Nodes.png)
-![Multiple Edges](../chatbot-flow-builder//src/Assests/Images/Multiple%20Edges.png)
-![Error Handling](../chatbot-flow-builder//src/Assests/Images/Error%20Handling.png)
+![Text Node](src/Assests/Images/Text%20Node.png)
+![Connect Nodes](src/Assests/Images/Connect%20Nodes.png)
+![Multiple Edges](src/Assests/Images/Multiple%20Edges.png)
+![Error Handling](src/Assests/Images/Error%20Handling.png)
 
 ## Project Structure
 ```
