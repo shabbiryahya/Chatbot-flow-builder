@@ -1,0 +1,47 @@
+.node-panel {
+    border: 1px solid #8d95db;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    color: #8d95db;
+    gap: 5px;
+    cursor: grab;
+  }
+  
+  .node-panel > svg {
+    font-size: 1.5rem;
+  }
+  
+  .settings-panel {
+    padding: 10px;
+  }
+  
+  .settings-panel span {
+    color: gray;
+  }
+  .settings-panel textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 1rem;
+  }
+  .msg-header {
+    display: flex;
+    justify-content: center;
+  }
+  .msg-header > svg {
+    position: absolute;
+    left: 10px;
+    font-size: 1.2rem;
+    cursor: pointer;
+  }
+  hr {
+    margin-top: 1rem;
+    width: 100%;
+  }
+  @media screen and (max-width:600px){
+    .node-panel div{
+    display: none;
+    }
+  }
